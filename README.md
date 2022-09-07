@@ -32,7 +32,7 @@
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 <h2>GitHub statistics</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=serg-svy&theme=dark&background=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=serg-svy&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 ### :hammer_and_wrench: Languages and Tools :
