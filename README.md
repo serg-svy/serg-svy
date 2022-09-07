@@ -1,7 +1,7 @@
 ### Hi there 👋
-<p align="center">Begginer FullStack Developer </p>
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Begginer+FullStack+Developer.;Begginer+FullStack+Developer.;Begginer+FullStack+Developer.;Begginer+FullStack+Developer.&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 <h2>Tech Skills</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
