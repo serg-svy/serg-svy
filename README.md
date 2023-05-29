@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=808BF7&width=435&lines=Frontend+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=808BF7&width=435&lines=Full+stack+developer" alt="Typing SVG" /></a>
 </p>
 <h2>Tech Skills</h2>
 
