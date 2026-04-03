@@ -2,15 +2,15 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Senior+Python+Developer;Cloud+%26+Data+Engineering+Specialist;Full-Stack+Developer;AI+%26+Automation+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Software+Developer;Cloud+%26+Data+Engineering+Specialist;Full-Stack+Developer;AI+%26+Automation+Expert" alt="Typing SVG" />
   </a>
 </p>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-svynarov/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://restartweb.ai/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serhiisvynarov@gmail.com)
 
 </div>
 
@@ -19,7 +19,7 @@
 ## Professional Profile
 
 ```yaml
-Role: Senior Python Developer
+Role: Software Developer
 Specializations:
   - Cloud Automation
   - Data Engineering
@@ -156,20 +156,12 @@ Focus: Delivering maintainable, scalable, high-performance software solutions
 
 ---
 
-## Achievement Metrics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=serg-svy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## Professional Focus Areas
 
 ```python
 class SerhiiSvynarov:
     def __init__(self):
-        self.role = "Senior Python Developer"
+        self.role = "Software Developer"
         self.specializations = [
             "Cloud Automation",
             "Data Engineering",
@@ -213,7 +205,7 @@ class SerhiiSvynarov:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhii-svynarov/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/serg-svy)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serhiisvynarov@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=serg-svy&color=2E9EF7&style=for-the-badge&label=Profile+Views)
 
